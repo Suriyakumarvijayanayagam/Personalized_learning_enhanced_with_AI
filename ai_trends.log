@@ -1,0 +1,39 @@
+2025-03-18 11:01:33,562 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-18 11:01:35,204 - INFO - Fetched 5 YouTube videos
+2025-03-18 11:07:21,530 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-18 11:07:23,156 - INFO - Fetched 5 YouTube videos for topic: AI learning
+2025-03-18 11:07:43,549 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-18 11:07:45,095 - INFO - Fetched 5 YouTube videos for topic: AI learning
+2025-03-18 11:08:35,877 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-18 11:08:36,038 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-18 11:08:37,564 - INFO - Fetched 9 YouTube videos for topic: AI learning
+2025-03-18 11:08:37,767 - INFO - Fetched 8 YouTube videos for topic: AI learning
+2025-03-18 11:22:07,436 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-18 11:22:07,849 - INFO - Fetched 4 News API articles for topic: AI learning
+2025-03-18 11:22:09,483 - INFO - Fetched 5 YouTube videos for topic: AI learning
+2025-03-18 11:24:09,772 - INFO - Using cached blog data for topic: AI learning
+2025-03-18 11:24:09,787 - INFO - Using cached News API data for topic: AI learning
+2025-03-18 11:24:09,792 - INFO - Using cached YouTube data for topic: AI learning
+2025-03-18 11:25:10,694 - INFO - Using cached blog data for topic: AI learning
+2025-03-18 11:25:10,699 - INFO - Using cached YouTube data for topic: AI learning
+2025-03-18 11:25:10,701 - INFO - Using cached News API data for topic: AI learning
+2025-03-19 21:08:24,789 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-19 21:08:26,440 - INFO - Fetched 4 News API articles for topic: AI learning
+2025-03-19 21:08:27,180 - INFO - Fetched 5 YouTube videos for topic: AI learning
+2025-03-20 12:16:09,104 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-20 12:19:28,747 - INFO - Using cached blog data for topic: AI learning
+2025-03-20 12:19:28,775 - INFO - Using cached YouTube data for topic: AI learning
+2025-03-20 12:19:28,787 - INFO - Using cached news data for topic: AI learning
+2025-03-20 12:19:47,796 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-20 12:20:23,473 - INFO - Using cached news data for topic: python
+2025-03-20 12:20:38,630 - INFO - Using cached YouTube data for topic: python
+2025-03-20 12:21:05,501 - INFO - Using cached YouTube data for topic: python
+2025-03-20 12:21:14,196 - INFO - Using cached YouTube data for topic: python
+2025-03-20 12:21:14,197 - INFO - Using cached news data for topic: python
+2025-03-20 12:21:30,595 - INFO - Using cached YouTube data for topic: python
+2025-03-20 12:21:30,596 - INFO - Using cached news data for topic: python
+2025-03-20 12:21:31,253 - INFO - Using cached YouTube data for topic: python
+2025-03-20 12:21:31,254 - INFO - Using cached news data for topic: python
+2025-03-20 12:21:43,915 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-20 12:22:14,288 - INFO - Using cached YouTube data for topic: java
+2025-03-20 12:22:14,297 - INFO - Using cached news data for topic: java
