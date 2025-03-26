@@ -10,10 +10,10 @@ from streamlit_ace import st_ace
 import time
 
 
-# Check if the user is logged in
-if 'signed_in' not in st.session_state or not st.session_state.signed_in:
-    st.warning("🔒You must be logged in to access this page.")
-    st.stop()  # Stop rendering the rest of the page
+# # Check if the user is logged in
+# if 'signed_in' not in st.session_state or not st.session_state.signed_in:
+#     st.warning("🔒You must be logged in to access this page.")
+#     st.stop()  # Stop rendering the rest of the page
 
 # Set page configuration
 st.set_page_config(
