@@ -14,10 +14,10 @@ import os
 import re
 import pandas as pd
 
-# Check if the user is logged in
-if 'signed_in' not in st.session_state or not st.session_state.signed_in:
-    st.warning("🔒You must be logged in to access this page.")
-    st.stop()  # Stop rendering the rest of the page
+# # Check if the user is logged in
+# if 'signed_in' not in st.session_state or not st.session_state.signed_in:
+#     st.warning("🔒You must be logged in to access this page.")
+#     st.stop()  # Stop rendering the rest of the page
 
 
 
