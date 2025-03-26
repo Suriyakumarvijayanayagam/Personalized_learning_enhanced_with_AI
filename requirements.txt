@@ -10,7 +10,7 @@ requests
 beautifulsoup4
 boto3
 botocore
-docx
+python-docx
 uuid
 textwrap
 ast
