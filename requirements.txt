@@ -12,7 +12,7 @@ boto3
 botocore
 python-docx
 uuid
-textwrap
+
 ast
 hashlib
 logging
