@@ -6,10 +6,10 @@ import random
 from datetime import datetime
 import json
 
-# Initial authentication check
-if 'signed_in' not in st.session_state or not st.session_state.signed_in:
-    st.warning("🔒 Please log in to access this page.")
-    st.stop()
+# # Initial authentication check
+# if 'signed_in' not in st.session_state or not st.session_state.signed_in:
+#     st.warning("🔒 Please log in to access this page.")
+#     st.stop()
 
 class EnhancedAdaptiveLearning:
     def __init__(self):
